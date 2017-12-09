@@ -9,4 +9,5 @@ countdown_event
 3. Вывод сообщения и картинки после наступления события.
 
 Код блока открыт для обновлений.
-работу блока можно посмотреть на сайте http://nukeviet.ru/
+Работу блока можно посмотреть на сайте http://nukeviet.ru/
+Описание блока тут http://nukeviet.ru/bloki/blok-obratnogo-otschjota-do-sobytija-countdown-event-4-3-00-37.html
